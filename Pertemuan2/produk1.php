@@ -31,7 +31,7 @@ $produk3->harga = 37000;
 //echo $produk3->getLabel();
 
 $produk4 = new Produk();
-$produk4->judul = "Gensin Impact";
+$produk4->judul = "Genshin Impact";
 $produk4->penulis = "Hugh Tsai";
 $produk4->penerbit = "miHoYo";
 $produk4->harga = 20000;
